@@ -3,6 +3,10 @@
 *.ap_
 *.aab
 
+/.idea/caches/build_file_checksums.ser
+/.idea/modules.xml
+.DS_Store
+
 # Files for the ART/Dalvik VM
 *.dex
 
